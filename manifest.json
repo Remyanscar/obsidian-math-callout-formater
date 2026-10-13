@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-formal-callout-formater",
+  "name": "Formal Callout Formatter",
+  "version": "1.0.0",
+  "minAppVersion": "1.13.0",
+  "description": "Safely export and integrate metadata-dense blocks, standardize formal callouts, and apply custom regex cleanup macros.",
+  "author": "Remyanscar",
+  "isDesktopOnly": false
+}
